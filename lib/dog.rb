@@ -19,6 +19,6 @@ class Dog(name, breed)
     @breed 
   end 
 end 
-end 
+
 
     
